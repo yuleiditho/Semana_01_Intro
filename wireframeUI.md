@@ -1,4 +1,4 @@
-# Wiframe UI
+# Wireframe UI
 
 Se diseño la interfaz de la aplicación de **Abogabot** desde la vista en un celular
 
@@ -10,4 +10,4 @@ Se diseño la interfaz de la aplicación de **Abogabot** desde la vista en un ce
 
 ## Demostración
 
-![WiframeUI](https://user-images.githubusercontent.com/49127715/156916033-fbbb3caf-113a-48a0-97f9-1d48eecab32f.gif)
+![WireframeUI](https://user-images.githubusercontent.com/49127715/156916033-fbbb3caf-113a-48a0-97f9-1d48eecab32f.gif)
